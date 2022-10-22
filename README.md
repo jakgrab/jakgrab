@@ -16,9 +16,9 @@ I am an Android Developer <img src="https://zeevector.com/wp-content/uploads/And
 
 - :zap: In my free time I enjoy a good history podcast and reading tech articles.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/jakubgrabowski)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.google.com)
 
-
+www.linkedin.com/in/jakubgrabowski
 ---
 
 ### :hammer_and_wrench: Languages and Tools:
