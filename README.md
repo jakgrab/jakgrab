@@ -8,11 +8,10 @@
 </h1>
 
 ### :man_technologist: About Me :
-I am an Android Developer <img src="https://zeevector.com/wp-content/uploads/Android-robot-png.png" width="30px"> from Poland.
+I am Flutter Developer <img src="https://storage.googleapis.com/cms-storage-bucket/c823e53b3a1a7b0d36a9.png" width="50px"> from Poland.
 
-- :telescope: I started my journey with Android development a year ago and continue to learn every day.
+- :telescope: I have 2 years of commercial experience creating Flutter Apps.
 
-- :seedling: I am currently working on an app which shows a list of houses to rent/buy based on the user selection feeded to a ML model.
 
 - :zap: In my free time I enjoy a good history podcast and reading tech articles.
 
@@ -22,30 +21,19 @@ I am an Android Developer <img src="https://zeevector.com/wp-content/uploads/And
 
 ### :hammer_and_wrench: Languages and Tools:
 
-- <div> <img src="https://zeevector.com/wp-content/uploads/Android-robot-png.png" title="Android" alt="Android" width="30" />&nbsp; Android </div> 
+- Flutter
 
-- <div> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="20" />&nbsp; Kotlin</div> 
-
-- Jetpack Compose
-
-- :dagger: Dagger-Hilt
-
-- Coroutines
-
-- Room
-
+- Dart
+- flutter_bloc (Cubits)
+- flutter_modular
+- go_router
+- freezed
+- Drift
+- Hive
+- get_it (injectable)
+- Firebase
+- flutter_blue_plus
+- Dio
 - Retrofit
-
-- MVVM
-
-- <div> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="Python" width="30" />&nbsp; Python</div> 
-
-- Pytorch
-
----
-
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jakgrab&theme=android-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-
+- Android
+- Kotlin
